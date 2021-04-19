@@ -12,3 +12,5 @@ function rotation_arr($source, $d1, $d2){
 }
 
 print_r( rotation_arr($example, 2, 0) );
+
+// output = Array ( [0] => 3 [1] => 4 [2] => 5 [3] => 6 [4] => 7 [5] => 8 [6] => 9 [7] => 1 [8] => 2 )
